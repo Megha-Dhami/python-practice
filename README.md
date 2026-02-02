@@ -1,3 +1,3 @@
 # python-practice
-This repository contains small Python programs created for
+This repository contains Python programs created for
 practice and learning purposes.
